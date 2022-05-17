@@ -1,0 +1,95 @@
+body {
+    margin:0;
+    padding: 0;
+    font-family:'IBM Plex Mono', monospace;
+    background-color: rgb(86, 4, 4);
+}
+
+h1 {
+    background-color: rgb(34, 30, 30);
+    color: rgb(240, 114, 114);
+    padding:20px;
+    font-size: 50px;
+    margin:0 0;
+}
+
+.header {
+    text-align: center;
+}
+
+span {
+    font-size: 20px;
+    margin: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;;
+}
+
+ol {
+    font-size: 20px;
+}
+
+.spoon {
+    color:rgb(240, 114, 114);
+    height:440px;
+    background-color: black;
+    padding: 30px;
+}
+
+.howlin {
+    color: rgb(240, 114, 114);
+    height:460px;
+    background-color: black;
+    padding: 30px;
+}
+
+img {
+    height:175px;
+    width: 175px;
+    border: white 4px solid;
+}
+
+.newAlbum {
+    color: rgb(240, 114, 114);
+    background-color: black;
+    height: 160px;
+    padding: 30px;
+}
+
+.topSongs {
+    color: rgb(240, 114, 114);
+    background-color: black;
+    height: 160px;
+    padding: 30px;
+}
+
+.albumWeek {
+    color: rgb(240, 114, 114);
+    height:430px;
+    background-color: black;
+    padding: 30px;
+}
+
+h3 {
+    text-align: center;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.welcome {
+    text-align: center;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
